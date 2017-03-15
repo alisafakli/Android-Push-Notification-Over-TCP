@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alisafakli/Desktop/Android Studio Samples/app/build/intermediates/res/merged/debug/menu/server_notification.xml",
+        "source": "/Users/alisafakli/Desktop/Android Studio Samples/app/src/main/res/menu/server_notification.xml"
+    },
+    {
+        "merged": "/Users/alisafakli/Desktop/Android Studio Samples/app/build/intermediates/res/merged/debug/menu/client.xml",
+        "source": "/Users/alisafakli/Desktop/Android Studio Samples/app/src/main/res/menu/client.xml"
+    },
+    {
+        "merged": "/Users/alisafakli/Desktop/Android Studio Samples/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/alisafakli/Desktop/Android Studio Samples/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/alisafakli/Desktop/Android Studio Samples/app/build/intermediates/res/merged/debug/menu/my_services.xml",
+        "source": "/Users/alisafakli/Desktop/Android Studio Samples/app/src/main/res/menu/my_services.xml"
+    }
+]
